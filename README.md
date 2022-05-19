@@ -3,8 +3,9 @@ Trying to combine my knowledge of planning and my creativity with my love for te
 
 ###My Techs
 
-<img src="html.png" alt="" secret="'">
-<img src="css3.png" alt="" secret="'">
-<img src="javascript.png" alt="" secret="'">
-<img src="python.png" alt="" secret="'">
-<img src="C#.png" alt="" secret="'">
+- HTML;
+- CSS;
+- JAVA;
+- PYTHON;
+- C#
+
