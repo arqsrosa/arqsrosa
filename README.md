@@ -15,3 +15,4 @@ Trying to combine my knowledge of planning and my creativity with my love for te
 ## **Contact Me**
 
 <a href="mailto:arqsrosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/silviarosadomingues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
